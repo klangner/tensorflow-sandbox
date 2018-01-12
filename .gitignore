@@ -1,4 +1,6 @@
+*.pyc
 datasets
 */.ipynb_checkpoints
 models/
 logs/
+output/

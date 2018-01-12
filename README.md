@@ -3,12 +3,19 @@
 Sandbox for various projects build with TensorFlow
 
   * datasets - Datasets used to train models. Some datasets should be downloaded
+  * notebooks - Jupyter notebooks
+  * scripts - Scripts which can be run from command line
 
 
+## Requirements
 
-## Installation
+ * Anaconda with Python 3.
+ * TensorFlow > 1.3
 
-It is best to use Anaconda Python 3 distribution.
+
+# Scripts
+
+ * nst.py - Neural Style Transformer 
 
 
 ## Datasets:
