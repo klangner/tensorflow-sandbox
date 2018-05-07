@@ -1,4 +1,5 @@
 *.pyc
+.idea/
 datasets
 .ipynb_checkpoints/
 models/
