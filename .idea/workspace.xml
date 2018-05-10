@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7090fa21-5fff-49eb-8aaa-65cb679e66d8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/claude-monet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/drop-of-water.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/louvre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/louvre_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/monet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/monet_800600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/persian_cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/persian_cat_content.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/sandstone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/images/stone_style.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,14 +45,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="tensorflow-sandbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow-sandbox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow-sandbox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow-sandbox" type="462c0819:PsiDirectoryNode" />
+              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tensorflow-sandbox" type="b2602c69:ProjectViewProjectNode" />
@@ -55,7 +77,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../haskell/glider-nlp" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
   </component>
   <component name="RunDashboard">
@@ -127,7 +149,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Cargo" order="3" />
@@ -138,7 +160,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32948583" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25506938" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="ANTLR Preview" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
