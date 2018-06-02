@@ -19,7 +19,7 @@ class ReplayBuffer(object):
         return len(self._storage)
 
     def add(self, state, action, reward, next_state, done):
-        data = (state, action, reward, next_states, done)
+        data = (state, action, reward, next_state, done)
 
         if self._next_idx >= len(self._storage):
             self._storage.append(data)
