@@ -8,8 +8,8 @@
 
 import numpy as np
 import gym
-from qnetwork import QNetwork
-from replay_buffer import ReplayBuffer
+from dqn.qnetwork import QNetwork
+from dqn.replay_buffer import ReplayBuffer
 
 
 class DQNAgent:
