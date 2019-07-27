@@ -6,3 +6,4 @@ models/
 logs/
 output/
 .DS_Store
+venv/
